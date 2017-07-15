@@ -1,0 +1,150 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libc.so.6
+_IO_stdin_used
+exit
+srand
+fopen
+puts
+time
+stdin
+popen
+printf
+fgets
+memset
+malloc
+sscanf
+pclose
+strcmp
+__libc_start_main
+free
+GLIBC_2.1
+GLIBC_2.0
+PTRh0
+[^_]
+[^_]
+!!!BOOM!!! You're toast.
+Unexpected error. Code: 1001. Contact TAs/Professor.
+%d %d %d %d %d %d
+%d %d %d %d %d %d %d %d
+%d %d
+Tell me, O human: Who art thou?
+whoami
+Unexpected error. Code: 1002. Contact TAs/Professor.
+Phase 0 solved. Safe.. FOR NOW!!!
+Phase 1 solved. Hmmm...
+Phase 2 solved. Warming up!
+Phase 3 solved. Don't celebrate yet. Three are 3 more to go.
+Phase 4 solved. Try this one...
+Phase 5 solved. Final phase coming up...
+All phases complete. Congrats! Bomb diffused... 
+Usage: %s OR %s <file>
+;*2$"
+GCC: (Debian 4.7.2-5) 4.7.2
+GCC: (Debian 4.4.7-2) 4.4.7
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+crtstuff.c
+__JCR_LIST__
+deregister_tm_clones
+register_tm_clones
+__do_global_dtors_aux
+completed.5730
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+master.c
+initializer_helper_1
+p3c1
+p3c2
+loop_start
+loop_done
+p3c3
+__FRAME_END__
+__JCR_END__
+__init_array_end
+_DYNAMIC
+__init_array_start
+_GLOBAL_OFFSET_TABLE_
+__libc_csu_fini
+strcmp@@GLIBC_2.0
+__i686.get_pc_thunk.bx
+_ITM_deregisterTMCloneTable
+data_start
+printf@@GLIBC_2.0
+free@@GLIBC_2.0
+fgets@@GLIBC_2.0
+phase2
+_edata
+phase4
+time@@GLIBC_2.0
+phase6
+phase0
+_fini
+phase5_helper
+phase6_decoder
+popen@@GLIBC_2.1
+explode
+read_8_numbers
+initialize
+malloc@@GLIBC_2.0
+__data_start
+puts@@GLIBC_2.0
+__gmon_start__
+exit@@GLIBC_2.0
+__dso_handle
+pclose@@GLIBC_2.1
+_IO_stdin_used
+srand@@GLIBC_2.0
+__libc_start_main@@GLIBC_2.0
+__libc_csu_init
+stdin@@GLIBC_2.0
+nonce
+fopen@@GLIBC_2.1
+memset@@GLIBC_2.0
+_end
+_start
+_fp_hw
+read_single_string
+phase4_helper
+rand@@GLIBC_2.0
+phase1
+__bss_start
+phase3
+phase5
+main
+read_6_numbers
+sscanf@@GLIBC_2.0
+read_number
+_Jv_RegisterClasses
+__TMC_END__
+_ITM_registerTMCloneTable
+_init
+phase3_helper
+read_2_numbers
